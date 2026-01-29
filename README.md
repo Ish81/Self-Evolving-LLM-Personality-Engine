@@ -174,7 +174,7 @@ pip install torch vaderSentiment numpy matplotlib requests
 ```
 Run the System 
 ```
-python main_ope.py
+python main_ode.py
 ```
 Have a conversation, then type:
 ```
